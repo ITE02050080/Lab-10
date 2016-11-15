@@ -1,7 +1,7 @@
-all: multithread02
+all: multithread03
 
-multithread01: multithread02.c
-	gcc multithread02.c -o multithread02 -lpthread
+multithread03: multithread03.c
+	gcc multithread03.c -o multithread03 -lpthread
 
 clean:
-	rm multithread02
+	rm multithread03
