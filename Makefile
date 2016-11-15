@@ -5,4 +5,3 @@ multithread01: multithread01.c
 
 clean:
 	rm multithread01
-
